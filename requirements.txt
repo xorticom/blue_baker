@@ -1,0 +1,5 @@
+kokoro-onnx
+onnxruntime
+soundfile
+numpy
+piper-tts
